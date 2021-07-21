@@ -1,3 +1,4 @@
+[![Build Status](https://gunnarornharaldsson0051.visualstudio.com/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/gunnaroh11.mslearn-tailspin-spacegame-web?branchName=main)](https://gunnarornharaldsson0051.visualstudio.com/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
